@@ -1,0 +1,2 @@
+# JavascriptTrain2018Sample
+新人研修向けJavascript演習テスト用
